@@ -1,0 +1,14 @@
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\RestNancyService.exe.config
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\obj\Debug\RestNancyService.csprojResolveAssemblyReference.cache
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\RestNancyService.exe
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\RestNancyService.pdb
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Nancy.dll
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Nancy.Hosting.Self.dll
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Topshelf.dll
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Topshelf.Linux.dll
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Nancy.xml
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Nancy.Hosting.Self.xml
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Topshelf.xml
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\obj\Debug\RestNancyService.exe
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\obj\Debug\RestNancyService.pdb
+C:\Sumit\Study\NetPractice2\RestNancyService\RestNancyService\bin\Debug\Output.json

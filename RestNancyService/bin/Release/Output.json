@@ -1,0 +1,22 @@
+{
+  "STATUS": "OK",
+  "relatedIncident": [
+    {
+      "status": "NEW",
+      "causeAnalysis": "",
+      "incidentId": "456",
+      "errorLog": "FxRestfulController: USDUSD not found: ccy1 and ccy2 should not be the same FxRestfulController.java 208",
+      "solution": ""
+    },
+    {
+      "status": "NEW",
+      "causeAnalysis": "",
+      "incidentId": "2334543",
+      "errorLog": "FxRestfulController: USDUSD not found: ccy1 and ccy2 should not be the same FxRestfulController.java 208",
+      "solution": "send ccy quotation properly"
+    }
+  ],
+  "LogClass": "C8",
+  "ISO_DATE": "2016-12-30 16:27:54,435",
+  "ORGMSG": "FxRestfulController: USDUSD not found: ccy1 and ccy2 should not be the same FxRestfulController.java 208 "
+}
